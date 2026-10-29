@@ -1,5 +1,3 @@
-# Buddy Desktop Preview
+# Buddy Desktop and Terminal
 
-Public download page and binary distribution only. Application source, secrets and user data are not published here.
-
-Windows portable preview. AI service configuration, cloud sign-in, code signing and automatic updates are not yet production ready.
+Public Windows download page and binary distribution. Desktop portable, Terminal portable with Node.js, and Terminal minimal for Node.js 24+. AI services are not preconfigured for customers. No developer credentials or user data are published.

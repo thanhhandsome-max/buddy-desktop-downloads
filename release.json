@@ -5,5 +5,37 @@
   "size": 249384961,
   "sha256": "8b1a05183448ab7f5b7667145d96669572d36326288fe458324949aa30fd0910",
   "url": "https://github.com/thanhhandsome-max/buddy-desktop-downloads/releases/download/v0.1.0-preview.2/Buddy-Desktop-Preview-0.1.0-win-x64.zip",
-  "signed": false
+  "signed": false,
+  "variants": [
+    {
+      "id": "terminal-portable",
+      "version": "0.1.0-terminal.1",
+      "filename": "Buddy-Terminal-Preview-0.1.0-win-x64.zip",
+      "size": 38675265,
+      "sha256": "95d0a30f4930a3f64089594afa0a8a2a2d8c0f2aabeb2489731be4aacacbed68",
+      "requiresNode": false,
+      "nodeVersion": "v24.22.1",
+      "platform": "windows-x64",
+      "smokePassed": true,
+      "offlineRssMiB": 39,
+      "signed": false,
+      "url": "https://github.com/thanhhandsome-max/buddy-desktop-downloads/releases/download/untagged-cda0df02da577c6aa7d6/Buddy-Terminal-Preview-0.1.0-win-x64.zip",
+      "available": true
+    },
+    {
+      "id": "terminal-minimal",
+      "version": "0.1.0-terminal.1",
+      "filename": "Buddy-Terminal-Preview-0.1.0-minimal.zip",
+      "size": 44921,
+      "sha256": "f2a65bab37261c8b6b5a8d3c4f518194b9f1209f27cf2eb2fb9a27e1b23d80ff",
+      "requiresNode": true,
+      "nodeVersion": "v24.22.1",
+      "platform": "node24",
+      "smokePassed": true,
+      "offlineRssMiB": 44,
+      "signed": false,
+      "url": "https://github.com/thanhhandsome-max/buddy-desktop-downloads/releases/download/untagged-cda0df02da577c6aa7d6/Buddy-Terminal-Preview-0.1.0-minimal.zip",
+      "available": true
+    }
+  ]
 }
