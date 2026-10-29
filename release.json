@@ -19,7 +19,7 @@
       "smokePassed": true,
       "offlineRssMiB": 39,
       "signed": false,
-      "url": "https://github.com/thanhhandsome-max/buddy-desktop-downloads/releases/download/untagged-cda0df02da577c6aa7d6/Buddy-Terminal-Preview-0.1.0-win-x64.zip",
+      "url": "https://github.com/thanhhandsome-max/buddy-desktop-downloads/releases/download/v0.1.0-terminal.1/Buddy-Terminal-Preview-0.1.0-win-x64.zip",
       "available": true
     },
     {
@@ -34,7 +34,7 @@
       "smokePassed": true,
       "offlineRssMiB": 44,
       "signed": false,
-      "url": "https://github.com/thanhhandsome-max/buddy-desktop-downloads/releases/download/untagged-cda0df02da577c6aa7d6/Buddy-Terminal-Preview-0.1.0-minimal.zip",
+      "url": "https://github.com/thanhhandsome-max/buddy-desktop-downloads/releases/download/v0.1.0-terminal.1/Buddy-Terminal-Preview-0.1.0-minimal.zip",
       "available": true
     }
   ]
