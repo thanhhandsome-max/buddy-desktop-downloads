@@ -1,10 +1,10 @@
 {
   "available": true,
-  "filename": "Buddy-Desktop-Preview-0.1.0-win-x64.zip",
-  "version": "0.1.0-preview.3",
-  "size": 249610209,
-  "sha256": "76690d313b26d26834102030365bd1ac24cf896e0d96884e1c0bb22d887296d1",
-  "url": "https://github.com/thanhhandsome-max/buddy-desktop-downloads/releases/download/v0.1.0-preview.3/Buddy-Desktop-Preview-0.1.0-win-x64.zip",
+  "filename": "Buddy-Desktop-Preview-0.1.0-preview.54-win-x64.zip",
+  "version": "0.1.0-preview.54",
+  "size": 330122765,
+  "sha256": "6c4c52e41dd95e4557c84f0f4157309a0b2e0a93f37e7265b0c4a95a8815d641",
+  "url": "https://github.com/thanhhandsome-max/buddy-desktop-downloads/releases/download/untagged-b87e3007025f5c46ed6d/Buddy-Desktop-Preview-0.1.0-preview.54-win-x64.zip",
   "signed": false,
   "variants": [
     {
